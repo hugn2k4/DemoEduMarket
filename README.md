@@ -30,8 +30,7 @@ Dự án website thương mại điện tử cho các khóa học online với t
 ### 1. Clone repository
 
 ```bash
-git clone <repository-url>
-cd edumarket
+git clone https://github.com/hugn2k4/DemoEduMarket.git
 ```
 
 ### 2. Cài đặt dependencies
